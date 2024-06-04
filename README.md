@@ -1,6 +1,6 @@
 # Data Science Projects
 
-This repository contains a collection of data science projects completed by John Nguyen to showcase skills in Python Foundations, Business Statistics, Supervised Learning Foundations, Classification, Ensemble Techniques, Model Tuning, and Unsupervised Learning.
+This repository contains a collection of data science projects completed by Brian Tran to showcase skills in Python Foundations, Business Statistics, Supervised Learning Foundations, Classification, Ensemble Techniques, Model Tuning, and Unsupervised Learning.
 
 ## Course Projects
 
